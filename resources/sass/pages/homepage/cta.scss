@@ -1,0 +1,49 @@
+.cta-wrap {
+    height: 100%;
+    background: linear-gradient(rgb(39 39 39 / 58%), rgba(39 39 39 / 58%)), url(/assets/images/slider1.jpg) center/cover fixed no-repeat;
+    height: 45vh;
+    margin-top: 5rem;
+
+    .cta-content {
+        height: 100%;
+        width: 70vw;
+        margin: 0 auto;
+        padding: 3rem 0;
+        display: flex;
+        justify-content: space-between;
+        align-items: flex-start;
+        flex-direction: column;
+
+        @include mobile {
+            flex-direction: column;
+        }
+
+        .cta-heading {
+            margin: 0 auto;
+            font-size: 1.8rem;
+            text-align: center;
+        }
+
+        .cta-download {
+            background: #040404bf;
+            border: 1px solid black;
+            padding: 1rem 1.5rem;
+            display: flex;
+            align-items: center;
+            margin: 0 auto;
+            width: 260px;
+
+            @include mobile {
+                width: 100%;
+            }
+        }
+
+        .cta-text {
+            flex: 0 1 92%;
+        }
+
+        .cta-icon {
+            color: $main;
+        }
+    }
+}
