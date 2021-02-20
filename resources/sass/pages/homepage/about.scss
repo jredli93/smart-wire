@@ -1,6 +1,7 @@
 .about-wrap {
     margin-top: -15rem;
-    background: url('/assets/images/about-background.jpg');
+    // background: url('/assets/images/about-background.jpg');
+    background: white;
     background-size: cover;
     padding-bottom: 5rem;
 
@@ -24,14 +25,18 @@
         }
 
         .about-title {
-            color: $text-white;
+            color: $dark-black;
             font-family: $regular-text;
             font-size: 5rem;
-            text-shadow: 0px 0px 10px $dark-black;
+            // text-shadow: 0px 0px 5px $dark-black;
 
             @include mobile-small {
                 font-size: 3rem;
             }
+        }
+
+        .about-text {
+            color: $dark-black;
         }
     }
 }

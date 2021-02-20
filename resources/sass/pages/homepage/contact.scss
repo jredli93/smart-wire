@@ -13,6 +13,10 @@
         background: url('/assets/images/slider1.jpg');
         background-size: cover;
 
+        @include tablet {
+            height: 102vh;
+        }
+
         @include mobile {
             position: unset;
             width: 100%;

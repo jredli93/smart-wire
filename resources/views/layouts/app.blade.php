@@ -19,6 +19,7 @@
     <link href="{{ asset('css/aos.css') }}" rel="stylesheet">
     <link href="{{ asset('css/font/flaticon.css') }}" rel="stylesheet">
     <link href="{{ asset('css/font-vintage/flaticon.css') }}" rel="stylesheet">
+    <link href="{{ asset('css/lity.css') }}" rel="stylesheet">
 
     <script src='https://api.mapbox.com/mapbox-gl-js/v2.0.0/mapbox-gl.js'></script>
     <link href="{{ asset('css/vegas.min.css') }}" rel="stylesheet">
@@ -60,6 +61,7 @@
     <script src="https://kit.fontawesome.com/5abe40685b.js" crossorigin="anonymous"></script>
     <script src="{{ asset('js/map.js') }}" defer></script>
     <script src="{{ asset('js/mobile-menu.js') }}" defer></script>
+    <script src="{{ asset('js/lity.js') }}" defer></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-modal/0.9.1/jquery.modal.min.js"></script>
     
 </body>
