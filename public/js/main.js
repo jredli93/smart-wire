@@ -131,8 +131,8 @@ $("#ex1").modal({
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! C:\xampp\htdocs\smart_wire\resources\js\main.js */"./resources/js/main.js");
-module.exports = __webpack_require__(/*! C:\xampp\htdocs\smart_wire\resources\sass\main.scss */"./resources/sass/main.scss");
+__webpack_require__(/*! /Applications/XAMPP/xamppfiles/htdocs/smart-wire/resources/js/main.js */"./resources/js/main.js");
+module.exports = __webpack_require__(/*! /Applications/XAMPP/xamppfiles/htdocs/smart-wire/resources/sass/main.scss */"./resources/sass/main.scss");
 
 
 /***/ })

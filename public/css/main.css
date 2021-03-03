@@ -19,6 +19,8 @@
   font-size: 1.2rem;
 }
 .header .navigation-list .navigation-item .navigation-item-logo {
+  background: #dcdcdc;
+  border: none;
   width: 200px;
   filter: drop-shadow(0px 0px 1px black);
 }
@@ -41,6 +43,7 @@
     z-index: 9999;
   }
   .header .navigation-mobile .navigation-mobile-logo {
+    background: white;
     width: 100px;
   }
   .header .navigation-mobile .navigation-hamburger {
@@ -251,9 +254,14 @@
   font-family: "Montserrat", sans-serif;
   font-size: 5rem;
 }
+@media (max-width: 426px) {
+  .about-wrap .about .about-title {
+    font-size: 3.2rem;
+  }
+}
 @media (max-width: 320px) {
   .about-wrap .about .about-title {
-    font-size: 3rem;
+    font-size: 2.5rem;
   }
 }
 .about-wrap .about .about-text {
@@ -548,6 +556,8 @@
   font-size: 1.2rem;
 }
 .header-tattoo .navigation-list .navigation-item .navigation-item-logo {
+  background: #dcdcdc;
+  border: none;
   width: 200px;
   filter: drop-shadow(0px 0px 1px black);
 }
@@ -570,6 +580,7 @@
     z-index: 9999;
   }
   .header-tattoo .navigation-mobile .navigation-mobile-logo {
+    background: white;
     width: 100px;
   }
   .header-tattoo .navigation-mobile .navigation-hamburger {
