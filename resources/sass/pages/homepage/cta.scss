@@ -3,6 +3,10 @@
     background: linear-gradient(rgb(39 39 39 / 58%), rgba(39 39 39 / 58%)), url(/assets/images/slider1.jpg) center/cover fixed no-repeat;
     height: 45vh;
     // margin-top: 5rem;
+    
+    @include mobile {
+        height: 53vh;
+    }
 
     .cta-content {
         height: 100%;
