@@ -8,7 +8,7 @@
         <div class="process-container">
 
                         <!-- PRODUCT1 MODAL START -->
-                        <div data-aos-delay="0" data-aos="fade-right" class="process-single">
+                        <div data-aos="fade-right" class="process-single">
                                 <h2 class="process-single-title">SMART FIRE COLLAR</h2>
                                 <a href="#product1" data-lity>
                                         <img src="/assets/images/collar2.png" class="process-img" alt="">
@@ -46,7 +46,7 @@
                         </div>
                         <!-- PRODUCT1 MODAL END -->
 
-                        <div data-aos-delay="250" data-aos="fade-right" class="process-single">
+                        <div data-aos="fade-right" class="process-single">
                                 <h2 class="process-single-title">SMART FIRE ACRYLIC SEALANT</h2>
                                 <a href="#product2" data-lity>
                                         <img src="/assets/images/acry.png" class="process-img" alt="">
@@ -84,7 +84,7 @@
                         </div>
 
 
-                        <div data-aos-delay="500" data-aos="fade-right" class="process-single">                                
+                        <div data-aos="fade-right" class="process-single">                                
                                 <h2 class="process-single-title">SMART FIRE MASTIC</h2>
                                <a href="#product3" data-lity>
                                        <img src="/assets/images/mastic.png" class="process-img" alt="">
@@ -123,7 +123,7 @@
                         </div>
 
 
-                        <div data-aos-delay="750" data-aos="fade-right" class="process-single">
+                        <div data-aos="fade-right" class="process-single">
                                 <h2 class="process-single-title">SMART FIRE PUTTY</h2>
                                 <a href="#product4" data-lity>
                                         <img src="/assets/images/putty.png" class="process-img" alt="">
@@ -166,7 +166,7 @@
                                         strip etc.)</p>
                                 </div>
                         </div>
-                        <div data-aos-delay="1000" data-aos="fade-right" class="process-single">                                
+                        <div data-aos="fade-right" class="process-single">                                
                                 <h2 class="process-single-title">SMART FIRE GRILL SQUARE</h2>
                                 <a href="#product5" data-lity>
                                         <img src="/assets/images/grill2.png" class="process-img" alt="">
@@ -205,7 +205,7 @@
 
 
 
-                        <div data-aos-delay="1250" data-aos="fade-right" class="process-single">
+                        <div data-aos="fade-right" class="process-single">
                                 <h2 class="process-single-title">SMART FIRE GRILL ROUND</h2>
                                 <a href="#product6" data-lity>
                                         <img src="/assets/images/collar.png" class="process-img" alt="">
@@ -246,7 +246,7 @@
                         </div>
 
 
-                        <div data-aos-delay="1500" data-aos="fade-right" class="process-single">                                
+                        <div data-aos="fade-right" class="process-single">                                
                                 <h2 class="process-single-title">SMART FIRE WRAP/STRIP</h2>
                                 <a href="#product7" data-lity>
                                         <img src="/assets/images/firewrap.png" class="process-img" alt="">
@@ -283,7 +283,7 @@
                                 </div>
                         </div>
 
-                        <div data-aos-delay="1750" data-aos="fade-right" class="process-single">
+                        <div data-aos="fade-right" class="process-single">
                                 <h2 class="process-single-title">SMART FIRE BRICK</h2>
                                 <a href="#product8" data-lity>
                                         <img src="/assets/images/brick.png" class="process-img" alt="">
@@ -321,7 +321,7 @@
                         </div>
 
 
-                        <div data-aos-delay="2000" data-aos="fade-right" class="process-single">
+                        <div data-aos="fade-right" class="process-single">
                                 <h2 class="process-single-title">SMART FIRE PLUG</h2>
                                 <a href="#product9" data-lity>
                                         <img src="/assets/images/plug.png" class="process-img" alt="">
