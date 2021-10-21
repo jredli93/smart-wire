@@ -8,13 +8,8 @@
         <div class="process-container">
 
                         <!-- PRODUCT1 MODAL START -->
-<<<<<<< HEAD
                         <div data-aos-delay="0" data-aos="fade-right" class="process-single">
                                 <h2 class="process-single-title">{{ __('text.product1-title')  }}</h2>
-=======
-                        <div data-aos="fade-right" class="process-single">
-                                <h2 class="process-single-title">SMART FIRE COLLAR</h2>
->>>>>>> c726a35a3dd009d4332058334ac98e5fd083f775
                                 <a href="#product1" data-lity>
                                         <img src="/assets/images/collar2.png" class="process-img" alt="">
                                 </a>
