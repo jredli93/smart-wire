@@ -9,39 +9,28 @@
 
                         <!-- PRODUCT1 MODAL START -->
                         <div data-aos-delay="0" data-aos="fade-right" class="process-single">
-                                <h2 class="process-single-title">SMART FIRE COLLAR</h2>
+                                <h2 class="process-single-title">{{ __('text.product1-title')  }}</h2>
                                 <a href="#product1" data-lity>
                                         <img src="/assets/images/collar2.png" class="process-img" alt="">
                                 </a>
                         </div>
                        
                         <div id="product1" style="background:#fff" class="modalbox lity-hide">
-                                <h1 class="modal-title">SMART FIRE COLLAR</h1>
+                                <h1 class="modal-title">{{ __('text.product1-title') }}</h1>
                                 <div class="modal-top">
                                         <img src="/assets/images/collar2.png" alt="" class="modal-top-img">
                                         <div class="modal-top-right">
-                                                <h2 class="modal-right-title">Introduction</h2>
-                                                <p class="modal-right-introduction">Smart re collar is made of 0.8mm
-                                                stainless steel housing with a exible insert
-                                                made of a graphite-based material which swells
-                                                under the inuence of temperature above 150°C.</p>
+                                                <h2 class="modal-right-title">{{ __('text.product-introduction') }}</h2>
+                                                <p class="modal-right-introduction">{{ __('text.product1-introduction-text') }}</p>
                                         </div>
                                 </div>
                                 <div class="modal-center">
-                                        <h2 class="modal-center-title">Application</h2>
-                                        <p class="modal-center-text">
-                                                Smart Fire Collar is used for re protection of penetrations with copper, plastic pipes (PVC,
-                                                PVC-U, San+PVC, PE, HDPE, MDPE, PVC-U, PP, PP-RCT, and others) as well as combination of
-                                                plastic/copper pipes and electric/network cables running through exible or rigid wall and
-                                                oors). EASY RETROFIT AT ANY TIME. Horizontal and vertical application. Performance
-                                                unaected by weathering (Type X Durability). Innovative technology.
-                                        </p>
+                                        <h2 class="modal-center-title">{{ __('text.product-application') }}</h2>
+                                        <p class="modal-center-text">{{ __('text.product1-application-text') }}</p>
                                 </div>
                                 <div class="modal-bottom">
                                         <img src="/assets/images/collar1.png" alt="" class="modal-bottom-img">
-                                        <p class="modal-bottom-introduction">Applicable to masonry walls and
-                                        oors as well as speed panels with
-                                        900 and 450 pipe penetrations.</p>
+                                        <p class="modal-bottom-introduction">{{ __('text.product1-bottom') }}</p>
                                 </div>
                         </div>
                         <!-- PRODUCT1 MODAL END -->

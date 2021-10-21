@@ -14,9 +14,13 @@ return [
     'pdf-text' => 'Možete preuzeti naš katalog i saznati detalje o našim proizvodima',
     'list-of' => 'Lista',
     'products-title' => 'Proizvoda',
+
+    'product-introduction' => 'Uvod',
+    'product-application' => 'Aplikacija',
     
     'product1-title' => 'SMART FIRE COLLAR',
-    'product1-text' => 'Smart re collar is made of 0.8mm stainless steel housing with a exible insert made of a graphite-based material which swells under the inuence of temperature above 150°C.',
+    'product1-introduction' => 'Smart re collar is made of 0.8mm stainless steel housing with a exible insert made of a graphite-based material which swells under the inuence of temperature above 150°C.',
+    'product1-application-text' => 'Smart re collar is made of 0.8mm stainless steel housing with a exible insert made of a graphite-based material which swells under the inuence of temperature above 150°C.',
     
     'product2-title' => 'SMART FIRE ACRYLIC SEALANT',
     'product2-text' => 'Smart re AS is an acrylic-based, single component re stopping sealant used for non-movement joints.',
@@ -50,5 +54,4 @@ return [
     'form-name' => 'Ime',
     'form-email' => 'Email',
     'form-message' => 'Poruka'
-
 ];
