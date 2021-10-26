@@ -15,4 +15,4 @@ Route::get('/', 'HomeController@index')->name('home');
 Route::get('/{lang}', function ($lang) {
     App::setlocale($lang);
     return view('pages.homepage.home');
-});
+})->name('language.switch');

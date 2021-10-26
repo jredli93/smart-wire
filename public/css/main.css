@@ -835,3 +835,20 @@ body {
 ::placeholder {
   color: white;
 }
+
+.language-switcher {
+  position: fixed;
+  right: 0;
+  top: 45vh;
+  background: transparent;
+  z-index: 100;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-direction: column;
+}
+@media (max-width: 426px) {
+  .language-switcher {
+    top: 70vh;
+  }
+}

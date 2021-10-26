@@ -29,6 +29,12 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery-modal/0.9.1/jquery.modal.min.css" />
 </head>
 <body>
+
+    <div class="language-switcher">
+        <a href="{{ route('language.switch', 'en') }}"><img src="{{ url('/assets/images/united.png') }}" width="40px" alt="united" class="flag"></a>
+        <a href="{{ route('language.switch', 'sr') }}"><img src="{{ url('/assets/images/serbia.png') }}" width="40px" alt="serbia" class="flag"></a>
+    </div>
+
     @yield('header')
     @yield('showcase')
     @yield('cta')
