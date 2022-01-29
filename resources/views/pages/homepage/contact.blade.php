@@ -7,8 +7,8 @@
                 <span class="info-subtitle">{{ __('text.contact-address')}}</span>
             </div>
             <div class="info">
-                <h2 class="info-title">office@smartreblock.rs</h2>
-                <span class="info-subtitle"><u>+381 60 339 44 07</u></span>
+                <h2 class="info-title"><a href="mailto:office@smartreblock.rs">office@smartreblock.rs</a></h2>
+                <span class="info-subtitle"><u><a href='tel:+381 60 339 44 07'>+381 60 339 44 07</a></u></span>
             </div>
         </div>
         <div class="contact-form">

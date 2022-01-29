@@ -11,23 +11,24 @@
         width: 70vw;
         text-align: center;
         line-height: 1.5rem;
-        padding-top: 20rem;
+        padding-top: 8rem;
 
         .about-text {
             margin-top: 3.5rem;
         }
 
         .about-overtitle {
-            color: $main;
+            color: $dark-black;
             font-size: 1.2rem;
             display: block;
-            margin-bottom: 0.75rem;
+            margin-bottom: 0.25rem;
         }
 
         .about-title {
             color: $dark-black;
             font-family: $regular-text;
-            font-size: 5rem;
+            font-size: 3rem;
+            text-transform: uppercase;
 
             @include mobile {
                 font-size: 3.2rem;
@@ -40,6 +41,7 @@
 
         .about-text {
             color: $dark-black;
+            font-size: 1.2rem;
         }
     }
 }

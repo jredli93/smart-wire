@@ -238,21 +238,22 @@
   width: 70vw;
   text-align: center;
   line-height: 1.5rem;
-  padding-top: 20rem;
+  padding-top: 8rem;
 }
 .about-wrap .about .about-text {
   margin-top: 3.5rem;
 }
 .about-wrap .about .about-overtitle {
-  color: #da0203e6;
+  color: #0f0f0f;
   font-size: 1.2rem;
   display: block;
-  margin-bottom: 0.75rem;
+  margin-bottom: 0.25rem;
 }
 .about-wrap .about .about-title {
   color: #0f0f0f;
   font-family: "Montserrat", sans-serif;
-  font-size: 5rem;
+  font-size: 3rem;
+  text-transform: uppercase;
 }
 @media (max-width: 426px) {
   .about-wrap .about .about-title {
@@ -266,6 +267,7 @@
 }
 .about-wrap .about .about-text {
   color: #0f0f0f;
+  font-size: 1.2rem;
 }
 
 .cta-wrap {
@@ -329,23 +331,22 @@
   margin: 0 auto;
 }
 .products-wrap .products-content .products-overtitle {
-  color: #da0203e6;
+  color: #0f0f0f;
   font-size: 1.2rem;
   display: block;
   padding-top: 8.5rem;
   text-align: center;
-  padding-bottom: 0.3rem;
 }
 .products-wrap .products-content .products-title {
   color: #0f0f0f;
   font-family: "Montserrat", sans-serif;
   line-height: 3.5rem;
   text-align: center;
-  font-size: 5rem;
+  font-size: 3rem;
 }
 @media (max-width: 320px) {
   .products-wrap .products-content .products-title {
-    font-size: 3rem;
+    font-size: 1.5rem;
   }
 }
 .products-wrap .products-background {
@@ -512,7 +513,7 @@
 .footer-wrap .footer {
   border-top: 1px solid #efefef;
   display: flex;
-  justify-content: space-between;
+  justify-content: center;
   align-items: center;
   margin-top: 4rem;
   max-width: 40vw;
@@ -795,6 +796,7 @@ body {
 #map {
   width: 100%;
   height: 65vh;
+  margin-top: 1.5rem;
 }
 
 .mapboxgl-ctrl-bottom-right,

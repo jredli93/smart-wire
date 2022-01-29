@@ -5,7 +5,7 @@
         <h1 class="cta-subheading" data-aos="fade-left">{{ __('text.subtitle')}}</h1>
         <div class="est-wrap">
             <hr class="cta-line">
-            <span class="cta-year">EST. 2011</span>
+            <span class="cta-year">EST. 2019</span>
             <hr class="cta-line">
         </div>
         <a data-aos="fade-right" href="#cta-heading" class="cta-btn">{{ __('text.catalog-cta') }}</a>
@@ -19,11 +19,11 @@
     </a>
     
 </section>
-<div class="banner" data-aos="fade-up"
+{{-- <div class="banner" data-aos="fade-up"
     data-aos-delay="20">
     <div data-aos="fade-up"
     data-aos-delay="50" class="banner-single">
     <h1 class="banner-title">{{ __('text.info')}}</h1>
     <p class="banner-single-title"><a href="#" class="banner-single-link">{{ __('text.info-text')}}</a></p>
     </div>
-</div>
+</div> --}}
