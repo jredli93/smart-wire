@@ -26,7 +26,7 @@
             text-shadow: 0 0 3px black;
             font-family: $regular-text;
 
-            @include mobile {
+            @include tablet {
                 font-size: 4rem;
             }
 

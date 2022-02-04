@@ -10,12 +10,13 @@ return [
     'info' => 'Informations',
     'info-text' => 'Pozivamo sve zainteresovane, dana 17.09.2019.god., da u prostorijama firme „SMARTFIREBLOCK“ doo Kragujevac, izvrše javni uvid u ENVIRONMENTAL MANAGEMENT PLAN – Project IF ID: 1297.',
     'learn-more' => 'Learn more',
-    'about-text' => 'The company SmartFireBlock Ltd is a new company established by an enthusiastic team of young people with a background in polymer technology, finnance and management. We approach this endeavor with experience, competence and determination. Our business philosophy is to become a strategic and well-organized company that will provide novel technology products and eco-technological solution for the market. With the growing trend of increased worldwide consumption of Passive Fire Protection (PFP) products, our goal is to establish a modern company for industrial production of PFP products. The increased number of construction sites, requirements for buildings refurbishment and deep renovation with the stricter implementation of fire protection regulations, is opening the room for innovative products on the market. Our aim is to develop quality products and to maintain constant research eorts in order to comply with the goals for sustainable development, environmental protection and green economy.',
+    'about-text' => 'SmartFireBlock Ltd is a company that manufactures Passive fire pro- tection (PFP) products. Our business philosophy is to become a stra- tegic and well-organized company that will provide novel technology products and eco-technological solution for the market. We manufac- ture next generation fire protection materials and ready-to-use solu- tions for the construction and automotive/public transportation industry.
+We offer palette of 10+ passive fire protection products based on a unique formula. Extreme performance confirmed in field conditions. Our products are plug-and-play, extremely easy to install, premium passive performance (no maintenance needed), eco-friendly, time-ef- ficient (easy installation), 1-stop-shop = modular and complementary products with competitive prices. So far we have an excellent feed- back from the field – deployment in high-rise buildings. We are con- tinuing our research efforts in order to comply with the goals for sus- tainable development, environmental protection and green economy.',
     'pdf-text' => 'You can download our catalog and find out more details about the products from our offer',
     'list-of' => 'List of our',
     'products-title' => 'Products', 
     
-    'product-introduction' => 'Introduction',
+    'product-introduction' => 'About the product',
     'product-application' => 'Application',
     
     'product1-title' => 'SMART FIRE COLLAR',
@@ -29,15 +30,15 @@ plastic/copper pipes and electric/network cables running through flexible or rig
 dooors). EASY RETROFIT AT ANY TIME. Horizontal and vertical application. Performance
 unaffected by weathering (Type X Durability). Innovative technology',
     'product1-bottom' => 'Applicable to masonry walls and doors as well as speed panels with
-900 and 450 pipe penetrations',
+90° and 45° pipe penetrations',
     
     'product2-title' => 'SMART FIRE ACRYLIC SEALANT',
     'product2-introduction-text' => 'Smart fire AS is an acrylic-based, single component
 fire stopping sealant used for non-movement joints. ',
-    'product2-application-text' => '- Construction walls and/or door joints
-- Gaps behind fire resistant door casings
-- Seating of smart fire grill or collar
-- Gaps around metallic pipes and cable penetrations',
+    'product2-application-text' => '• Construction walls and/or door joints<br/>
+• Gaps behind fire resistant door casings<br/>
+• Seating of smart fire grill or collar<br/>
+• Gaps around metallic pipes and cable penetrations',
     'product2-bottom' => 'Applicable to all kinds of joints
 requiring fire resistance. Can be
 painted once is cured. Great
@@ -70,6 +71,11 @@ plug/brick where annular or any other gap need to be closed.
 Innovative technology.',
     'product4-application-text' => 'Smart Fire Putty is used for wall penetration of combustile and non-combustile
 pipes as well as cables installed in flexibe pipes.',
+'product4-bottom' => 'Applicable to masonry walls and doors
+as well as speed panels penetrations in
+possible combination with other fire
+stopping products (collar, wrap,
+strip etc.)',
     
     'product5-title' => 'SMART FIRE GRILL SQUARE',
     'product5-introduction-text' => 'Smart Fire Grill are made from galvanized metal sheets partly filled
@@ -113,7 +119,7 @@ under high temperature influence and fills the entire
 space left after burnt-out of combustible installations.
 Horizontal application.',
     'product8-application-text' => 'Smart fire brick is used as a seal for wall/door/ceiling penetration of single cables as well
-as smaller cable bundles or small diameter pipes. It can be stacked to a maximum area of 1,4m2',
+as smaller cable bundles or small diameter pipes.',
     
     'product9-title' => 'SMART FIRE PLUG',
     'product9-introduction-text' => 'Smart fire plug is graphite based shaped seal which swells
@@ -134,6 +140,8 @@ penetrations in masonry walls.',
 
     'form-name' => 'Name',
     'form-email' => 'Email',
-    'form-message' => 'Message'
+    'form-message' => 'Message',
+    'send-button' => 'Send message'
+
 
 ];

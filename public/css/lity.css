@@ -186,8 +186,9 @@
 .lity-content .modalbox .modal-bottom .modal-bottom-introduction {
   color: red;
   font-weight: 500;
-  flex: 0 1 35%;
+  flex: 0 1 70%;
   text-align: right;
+  margin-top: 2rem;
 }
 
 

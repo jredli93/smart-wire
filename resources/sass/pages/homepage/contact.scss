@@ -56,10 +56,9 @@
         }
 
         .contact-form {
-
             .form {
                 display: flex;
-                margin-top: 4.5rem;
+                margin-top: 3rem;
                 flex-direction: column;
 
                 .input,
@@ -69,6 +68,26 @@
                     background: #0e0e0ec9;
                 }
             }
+        }
+
+        .cta-download {
+            background: #a51818;
+            border: 1px solid black;
+            padding: 1rem 1.5rem;
+            display: flex;
+            align-items: center;
+            margin: 0 auto;
+            font-size: 1rem;
+            width: 100%;
+
+            &:hover {
+                cursor: pointer;
+                background: #cd4242;
+            }
+
+             @include mobile {
+                 width: 100%;
+             }
         }
     }
 }

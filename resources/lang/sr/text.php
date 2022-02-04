@@ -11,29 +11,14 @@ return [
     'info-text' => 'Pozivamo sve zainteresovane, dana 17.09.2019.god., da u prostorijama firme „SMARTFIREBLOCK“ doo Kragujevac, izvrše javni uvid u ENVIRONMENTAL MANAGEMENT PLAN – Project IF ID: 1297.',
     'learn-more' => 'Saznaj više',
     'download-catalog' => '',
-    'about-text' => 'Kompanija Smart fire block ltd je nova kompanija osnovana od strane
-tima ljudi punih entuzijazma, sa velikim iskustvom i znanjem u polimer
-tehnologiji, finansijama i menadžmentu. Pristupamo ovom projektu sa
-mnogo iskustva, znanja i odlučnosti. Naša poslovna filozofija je da
-postanemo strateški važna i dobro organizovana kompanija koja
-obezbeđuje nove tehnološke proizvode i eko-tehnološka rešenja na
-tržištu.
-Uz rastući trend interesovanja i povećanu potrošnju Passive fire
-protection (PFP) proizvoda na svetskom tržištu, naš cilj je da
-osnujemo modernu kompaniju za industrijsku proizvodnju PFP
-proizvoda. S obzirom na značajan porast radova na polju gradjevine,
-sve veći broj gradilišta, potrebu za preuređenjem zgrada, za temeljnim
-renoviranjem i strožom primenom regulativa o zaštiti od požara,
-otvara se prostor za inovativna rešenja na tržištu. Naš cilj je da
-razvijemo kvalitetne proizvode i da konstantno istražujemo nova
-rešenja u svrhu dostizanja ciljeva za razvoj životne sredine i zelene
-ekonomije.',
+    'about-text' => 'SmartFireBlock d.o.o. je privredno društvo koje se bavi proizvodnjom proizvoda za pasivnu protivpožarnu zaštitu (PPZ). Naš cilj je da odgovorimo na zakonski propisane uslove, kao i na rastuću potrebu u građevinskom sektoru obezbeđivanjem kvalitetnih i cenovno prihvatljivih proizvoda baziranih na inovativnoj tehnologiji, kao i eko tehnološkim rešenjima. S obzirom na značajan porast tražnje u građevinskom sektoru, veći broj novih gradilišta, kao i projekata rekonstrukcije objekata, naša firma uspešno odgovora izazovima u rešavanju problema isporuke odgovarajućih proizvoda nastojeći da se prilagodimo potrebama svakog pojedinačnog kupca. Naša je specijalnost rešavanje dilema oko izvodjenja PPZ, kao i pružanje pomoći u pronalaženju adekvatnih solucija.
+Naši proizvodi su dokazano lako ugradivi od strane električara, vodoinstalatera, termotehničara, kao i inženjera za komunikacione mreže. Mi spašavamo živote i Vašu imovinu!',
 
     'pdf-text' => 'Možete preuzeti naš katalog i saznati detalje o našim proizvodima',
     'list-of' => 'Lista',
     'products-title' => 'Proizvoda',
 
-    'product-introduction' => 'Uvod',
+    'product-introduction' => 'O proizvodu',
     'product-application' => 'Aplikacija',
 
     'product1-title' => 'SMART FIRE COLLAR',
@@ -45,11 +30,11 @@ ekspandira na temperaturi iznad 150 °C',
     'product2-title' => 'SMART FIRE ACRYLIC SEALANT',
     'product2-introduction-text' => 'SMART FIRE AS je zaptivna masa na bazi akrilatnog polimera koja je predvidjena za ispunjavanje otvora izmedju prodora i instalacija koje se smatraju
 nepomerljivim ili niskog stepena pomeranja u cilju sprečavanja prodora vatre i dima.',
-    'product2-application-text' => ' Zaptivanje otvora na zidovima i podovima
-- Zaptivanje otvora između protivpožarnih vrata i zida
-- Zaptivanje otvora oko protivpožarnih rešetaka ili obujmica
-- Zaptivanje otvora kroz koje prodiru plastične i metalne cevi, odnosno kablovi',
-    'product2-bottom' => 'Primenjivo na sve vrste spojeva koji iziskuju određenu klasifikaciju vatroot- pornosti, odnosno prodora dima. Nakon primene može biti ofarbano. U slučaju većih otvora međuprostor popuniti kamenom vunom ili koristiti SMART FIRE STRIP. Proizvod poseduje značajna adheziona svojstva.',
+    'product2-application-text' => '• Zaptivanje otvora na zidovima i podovima<br/>
+• Zaptivanje otvora između protivpožarnih vrata i zida<br/>
+• Zaptivanje otvora oko protivpožarnih rešetaka ili obujmica<br/>
+• Zaptivanje otvora kroz koje prodiru plastične i metalne cevi, odnosno kablovi',
+    'product2-bottom' => 'Primenjivo na sve vrste spojeva koji iziskuju određenu klasifikaciju vatrootpornosti, odnosno prodora dima. Nakon primene može biti ofarbano. U slučaju većih otvora međuprostor popuniti kamenom vunom ili koristiti SMART FIRE STRIP. Proizvod poseduje značajna adheziona svojstva.',
 
     'product3-title' => 'SMART FIRE MASTIC',
     'product3-introduction-text' => 'SMART FIRE MASTIC je zaptivna masa na bazi akrilatnog polimera koja je predvidjena za ispunjavanje otvora između prodora i instalacija sa nešto većim stepenom pomeranja u toku životnog veka u cilju sprečavanja prodora vatre i dima. SMART FIRE MASTIC stvara pritisak prilikom ekspandiranja i tako omogućava zaptivanje gorivih cevi bez upotrebe dodatnih sistema zaštite (do promera cevi od 50mm)',
@@ -82,14 +67,14 @@ Radi se o inovativnoj tehnologiji.',
     'product7-introduction-text' => 'SMART FIRE WRAP / STRIP je fleksibilna traka pravljena od polimera visokih performansi koja ekspandira pod uticajem vatre ili usijanih gasova, odnosno temperature iznad 150°C i popunjava celokupan prostor
 nakon sagorevanja instalacija. Radi se o inovativnoj tehnologiji.',
     'product7-application-text' => 'SMART FIRE WRAP / STRIP* je fleksibilna traka koja se koristi kao zaptivka za zaštitu od prodiranja vatre obmotavanjem oko pojedinačnih prodora, odnosno sledećih kombinacija plastičnih cevi** (PVC, PVC-U, San+PVC, PE, HDPE, MDPE, PVC-U, PP, PP-RCT i druge) i bakarnih cevi (HVAC) odnosno napojnih i komunikacionih kablova koji prodiru kroz lake pregrade kao i čvrste, konstruktivne zidove i podove. Primena može biti horizontalna i vertikalna. Proizvod je tipa ’’Type X Durability’’, što znači da performanse proizvoda ne zavise od promena vremenskih uslova. *Koristi se jedna ili više fleksibilnih traka u zavisnosti od prečnika cevi. **SMART FIRE STRIP se ne koristi u kombinovanim prodorima, već pojedinačno',
-    'product7-bottom' => 'SMART FIRE WRAP je fleksibilna traka koja se obmotava oko različitih kombi- nacija prodora (bakarnih cevi, plastičnih cevi, kablova) koji prodiru kroz otvore na zidovima. SMART FIRE STRIP je fleksibil- na traka koja se obmotava samo u slučaju pojedinačnih prodora.',
+    'product7-bottom' => 'SMART FIRE WRAP je fleksibilna traka koja se obmotava oko različitih kombinacija prodora (bakarnih cevi, plastičnih cevi, kablova) koji prodiru kroz otvore na zidovima. SMART FIRE STRIP je fleksibilna traka koja se obmotava samo u slučaju pojedinačnih prodora.',
 
     'product8-title' => 'SMART FIRE BRICK',
     'product8-introduction-text' => 'SMART FIRE BRICK je konstruktivna zaptivka u obliku
 cigle na bazi polimera dugotrajnih i visokih performansi
 male specifične gustine (mase) koja ekspandira pod uticajem vatre ili usijanih gasova i popunjava celokupan prostor nakon sagorevanja instalacija. Primenjuje se isključivo horizontalno.',
-    'product8-application-text' => 'SSMART FIRE BRICK se koristi kao zaptivka u zidovima, na podovima i na plafonima. Kroz ovu zaptivku u obliku cigle može penetrirati jedan kabl ili manji snop kablova na regalu ili samostalnih kablova kao i manje plastične cevi. Proizvod može popuniti šupljinu u zidu do maksimalnog otvora 110x110cm.',
-    'product8-bottom' => 'Ova zaptivka je primenjiva na kon- struktivne zidove (blok, cigla), kao i na lake pregradne zidove na prostoru do maksimalnog otvora 110x110cm',
+    'product8-application-text' => 'SMART FIRE BRICK se koristi kao zaptivka u zidovima, na podovima i na plafonima. Kroz ovu zaptivku u obliku cigle može penetrirati jedan kabl ili manji snop kablova na regalu ili samostalnih kablova kao i manje plastične cevi. Proizvod može popuniti šupljinu u zidu do maksimalnog otvora 110x110cm.',
+    'product8-bottom' => 'Ova zaptivka je primenjiva na konstruktivne zidove (blok, cigla), kao i na lake pregradne zidove na prostoru do maksimalnog otvora 110x110cm',
 
     'product9-title' => 'SMART FIRE PLUG',
     'product9-introduction-text' => 'SMART FIRE PLUG je konstruktivna zaptivka u obliku čepa na bazi polimera dugotrajnih i visokih performansi male specifične gustine (mase) koja ekspandira pod uticajem vatre ili usijanih gasova i popunjava celokupan prostor nakon sagorevanja instalacija.
@@ -106,5 +91,6 @@ kabl ili manji snop kablova na regalu ili samostalnih kablova kao i manje plasti
 
     'form-name' => 'Ime',
     'form-email' => 'Email',
-    'form-message' => 'Poruka'
+    'form-message' => 'Poruka',
+    'send-button' => 'Pošalji poruku'
 ];

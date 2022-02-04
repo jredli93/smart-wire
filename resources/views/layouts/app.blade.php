@@ -69,7 +69,7 @@
     <script src="{{ asset('js/main.js') }}" defer></script>
     <script src="{{ asset('js/carousel.js') }}" defer></script>
     <script src="https://unpkg.com/flickity@2/dist/flickity.pkgd.min.js"></script>
-    {{-- <script src="https://kit.fontawesome.com/5abe40685b.js" crossorigin="anonymous"></script> --}}
+    <script src="https://kit.fontawesome.com/5abe40685b.js" crossorigin="anonymous"></script>
     <script src="{{ asset('js/map.js') }}" defer></script>
     <script src="{{ asset('js/mobile-menu.js') }}" defer></script>
     <script src="{{ asset('js/lity.js') }}" defer></script>

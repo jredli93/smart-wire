@@ -16,6 +16,9 @@
                <input type="text" class="input" name="contact-name" placeholder="{{ __('text.form-name')}}" required>
                <input type="email" class="input" name="contact-email" placeholder="{{ __('text.form-email')}}" name="Email" required>
                <textarea class="textarea" name="contact-ta" cols="30" rows="5" name="Messsage" placeholder="{{ __('text.form-message')}}" required></textarea>
+               <button class="cta-download">
+                {{-- <i class="fas fa-paper-plane cta-icon fa-3x"></i> --}}
+                <span class="cta-text">{{ __('text.send-button')}}</span></button>
            </form>
         </div>
     </div>

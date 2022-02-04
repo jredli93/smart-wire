@@ -30,7 +30,7 @@
                                 </div>
                                 <div class="modal-bottom">
                                         <img loading="lazy" src="/assets/images/collar1.png" alt="" class="modal-bottom-img">
-                                        <p class="modal-bottom-introduction">{{ __('text.product1-bottom') }}</p>
+                                        <p class="modal-bottom-introduction">{{!! __('text.product1-bottom') !!}}</p>
                                 </div>
                         </div>
                         <!-- PRODUCT1 MODAL END -->
@@ -54,7 +54,7 @@
                                 <div class="modal-center">
                                         <h2 class="modal-center-title">{{ __('text.product-application') }}</h2>
                                         <p class="modal-center-text">
-                                                {{ __('text.product2-application-text') }}
+                                               {!! __('text.product2-application-text') !!}
                                         </p>
                                 </div>
                                 <div class="modal-bottom">
@@ -123,7 +123,7 @@
                         <div data-aos="fade-right" class="process-single">                                
                                 <h2 class="process-single-title">{{ __('text.product5-title') }}</h2>
                                 <a href="#product5" data-lity>
-                                        <img loading="lazy" src="/assets/images/grill2.png" class="process-img" alt="">
+                                        <img loading="lazy" src="/assets/images/grill1.png" class="process-img" alt="">
                                 </a>
                         </div>
 
@@ -143,7 +143,7 @@
                                         </p>
                                 </div>
                                 <div class="modal-bottom">
-                                        <img loading="lazy" src="/assets/images/grill2.png" alt="" class="modal-bottom-img">
+                                        {{-- <img loading="lazy" src="/assets/images/grill2.png" alt="" class="modal-bottom-img"> --}}
                                 </div>
                         </div>
 
@@ -153,7 +153,7 @@
                         <div data-aos="fade-right" class="process-single">
                                 <h2 class="process-single-title">{{ __('text.product6-title') }}</h2>
                                 <a href="#product6" data-lity>
-                                        <img loading="lazy" src="/assets/images/collar.png" class="process-img" alt="">
+                                        <img loading="lazy" src="/assets/images/collar1.png" class="process-img" alt="">
                                 </a>
                         </div>
 

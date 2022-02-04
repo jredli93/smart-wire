@@ -6,7 +6,7 @@
             <i class="fas fa-file-pdf cta-icon fa-3x"></i>
             <span class="cta-text">{{ __('text.catalog-cta')}}</span></button>
         @else
-        <button onclick="window.open('/assets/katalog.v02.SFB.eng.pdf')" class="cta-download">
+        <button onclick="window.open('/assets/katalog.v02.SFB.srp.pdf')" class="cta-download">
             <i class="fas fa-file-pdf cta-icon fa-3x"></i>
             <span class="cta-text">{{ __('text.catalog-cta')}}</span></button>
         @endif

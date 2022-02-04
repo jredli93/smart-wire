@@ -15,6 +15,11 @@
   margin: 0 auto;
   color: #efefef;
 }
+@media (max-width: 768px) {
+  .header .navigation-list {
+    width: 90vw;
+  }
+}
 .header .navigation-list .navigation-item {
   font-size: 1.2rem;
 }
@@ -23,6 +28,11 @@
   border: none;
   width: 200px;
   filter: drop-shadow(0px 0px 1px black);
+}
+@media (max-width: 768px) {
+  .header .navigation-list .navigation-item .navigation-item-logo {
+    width: 100px;
+  }
 }
 @media (max-width: 426px) {
   .header .navigation-list {
@@ -86,7 +96,7 @@
   text-shadow: 0 0 3px black;
   font-family: "Montserrat", sans-serif;
 }
-@media (max-width: 426px) {
+@media (max-width: 768px) {
   .header .cta .cta-heading {
     font-size: 4rem;
   }
@@ -253,7 +263,6 @@
   color: #0f0f0f;
   font-family: "Montserrat", sans-serif;
   font-size: 3rem;
-  text-transform: uppercase;
 }
 @media (max-width: 426px) {
   .about-wrap .about .about-title {
@@ -495,7 +504,7 @@
 }
 .contact-wrap .contact .contact-form .form {
   display: flex;
-  margin-top: 4.5rem;
+  margin-top: 3rem;
   flex-direction: column;
 }
 .contact-wrap .contact .contact-form .form .input,
@@ -505,6 +514,25 @@
   border: none;
   margin-top: 0.2rem;
   background: #0e0e0ec9;
+}
+.contact-wrap .contact .cta-download {
+  background: #a51818;
+  border: 1px solid black;
+  padding: 1rem 1.5rem;
+  display: flex;
+  align-items: center;
+  margin: 0 auto;
+  font-size: 1rem;
+  width: 100%;
+}
+.contact-wrap .contact .cta-download:hover {
+  cursor: pointer;
+  background: #cd4242;
+}
+@media (max-width: 426px) {
+  .contact-wrap .contact .cta-download {
+    width: 100%;
+  }
 }
 
 .footer-wrap {
@@ -553,6 +581,11 @@
   margin: 0 auto;
   color: #efefef;
 }
+@media (max-width: 768px) {
+  .header-tattoo .navigation-list {
+    width: 90vw;
+  }
+}
 .header-tattoo .navigation-list .navigation-item {
   font-size: 1.2rem;
 }
@@ -561,6 +594,11 @@
   border: none;
   width: 200px;
   filter: drop-shadow(0px 0px 1px black);
+}
+@media (max-width: 768px) {
+  .header-tattoo .navigation-list .navigation-item .navigation-item-logo {
+    width: 100px;
+  }
 }
 @media (max-width: 426px) {
   .header-tattoo .navigation-list {
